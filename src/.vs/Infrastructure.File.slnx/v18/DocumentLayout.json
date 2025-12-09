@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HHcini\\source\\repos\\Infrastructure.File\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75EABBCD-649D-4BD0-BD6B-90D881E7BF4F}|ExcelParsing\\ExcelParsing.csproj|c:\\users\\hhcini\\source\\repos\\infrastructure.file\\excelparsing\\core\\excelreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EABBCD-649D-4BD0-BD6B-90D881E7BF4F}|ExcelParsing\\ExcelParsing.csproj|solutionrelative:excelparsing\\core\\excelreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EABBCD-649D-4BD0-BD6B-90D881E7BF4F}|ExcelParsing\\ExcelParsing.csproj|c:\\users\\hhcini\\source\\repos\\infrastructure.file\\excelparsing\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EABBCD-649D-4BD0-BD6B-90D881E7BF4F}|ExcelParsing\\ExcelParsing.csproj|solutionrelative:excelparsing\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EABBCD-649D-4BD0-BD6B-90D881E7BF4F}|ExcelParsing\\ExcelParsing.csproj|c:\\users\\hhcini\\source\\repos\\infrastructure.file\\excelparsing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EABBCD-649D-4BD0-BD6B-90D881E7BF4F}|ExcelParsing\\ExcelParsing.csproj|solutionrelative:excelparsing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EABBCD-649D-4BD0-BD6B-90D881E7BF4F}|ExcelParsing\\ExcelParsing.csproj|c:\\users\\hhcini\\source\\repos\\infrastructure.file\\excelparsing\\model\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EABBCD-649D-4BD0-BD6B-90D881E7BF4F}|ExcelParsing\\ExcelParsing.csproj|solutionrelative:excelparsing\\model\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\HHcini\\source\\repos\\Infrastructure.File\\ExcelParsing\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "ExcelParsing\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\HHcini\\source\\repos\\Infrastructure.File\\ExcelParsing\\Entities\\Person.cs",
+              "RelativeToolTip": "ExcelParsing\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:34:23.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\HHcini\\source\\repos\\Infrastructure.File\\ExcelParsing\\Model\\Mapping.cs",
+              "RelativeDocumentMoniker": "ExcelParsing\\Model\\Mapping.cs",
+              "ToolTip": "C:\\Users\\HHcini\\source\\repos\\Infrastructure.File\\ExcelParsing\\Model\\Mapping.cs",
+              "RelativeToolTip": "ExcelParsing\\Model\\Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:42:25.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelReader.cs",
+              "DocumentMoniker": "C:\\Users\\HHcini\\source\\repos\\Infrastructure.File\\ExcelParsing\\Core\\ExcelReader.cs",
+              "RelativeDocumentMoniker": "ExcelParsing\\Core\\ExcelReader.cs",
+              "ToolTip": "C:\\Users\\HHcini\\source\\repos\\Infrastructure.File\\ExcelParsing\\Core\\ExcelReader.cs",
+              "RelativeToolTip": "ExcelParsing\\Core\\ExcelReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:40:54.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HHcini\\source\\repos\\Infrastructure.File\\ExcelParsing\\Program.cs",
+              "RelativeDocumentMoniker": "ExcelParsing\\Program.cs",
+              "ToolTip": "C:\\Users\\HHcini\\source\\repos\\Infrastructure.File\\ExcelParsing\\Program.cs",
+              "RelativeToolTip": "ExcelParsing\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:35:30.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
